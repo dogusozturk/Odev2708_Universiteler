@@ -1,0 +1,14 @@
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\bin\Debug\Odev2708_Universiteler.exe.config
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\bin\Debug\Odev2708_Universiteler.exe
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\bin\Debug\Odev2708_Universiteler.pdb
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\bin\Debug\DataAccessLayer.dll
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\bin\Debug\DataAccessLayer.pdb
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.csproj.AssemblyReference.cache
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.Form1.resources
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.Properties.Resources.resources
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.csproj.GenerateResource.cache
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.csproj.CopyComplete
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.exe
+C:\Users\Doğuş\source\repos\Odev2708_Universiteler\Odev2708_Universiteler\obj\Debug\Odev2708_Universiteler.pdb
